@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tests on Piotr Musiał</title>
+    <link>https://piotrmus.com/tags/tests/</link>
+    <description>Recent content in tests on Piotr Musiał</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl</language>
+    <lastBuildDate>Mon, 22 Feb 2021 20:09:07 +0100</lastBuildDate><atom:link href="https://piotrmus.com/tags/tests/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testy</title>
+      <link>https://piotrmus.com/blog/tests/</link>
+      <pubDate>Mon, 22 Feb 2021 20:09:07 +0100</pubDate>
+      
+      <guid>https://piotrmus.com/blog/tests/</guid>
+      <description>Testy to święty gral początkujących programistów. Będąc na stanowisku CTO prowadziłem sporo rekrutacji na stanowiska juniorskie. Najczęściej powtarzaną przez rekrutów pożądaną cechą zespołu było praktykowanie pisania testów.
+Przy okazji testów wszyscy wspominali o podejściu TDD (Test Driven Design), a nawet byli w stanie zdefiniować głównego założenie tego podejścia. Niestety ani jeden z nich nie pracował w takim podejściu, a zdecydowana większość z nich nigdy nawet nie pisała testów. Wszyscy narzekali, że w projektach, z którymi obecnie pracują testów nie ma i podawali to jako główną przyczynę problemów z aplikacją.</description>
+    </item>
+    
+  </channel>
+</rss>

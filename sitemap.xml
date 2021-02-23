@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://piotrmus.com/blog/</loc>
+    <lastmod>2021-02-22T20:09:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://piotrmus.com/</loc>
+    <lastmod>2021-02-22T20:09:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://piotrmus.com/tags/</loc>
+    <lastmod>2021-02-22T20:09:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://piotrmus.com/tags/tests/</loc>
+    <lastmod>2021-02-22T20:09:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://piotrmus.com/blog/tests/</loc>
+    <lastmod>2021-02-22T20:09:07+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://piotrmus.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://piotrmus.com/hi/</loc>
+  </url>
+  
+  <url>
+    <loc>https://piotrmus.com/uses/</loc>
+  </url>
+  
+  <url>
+    <loc>https://piotrmus.com/search/</loc>
+  </url>
+  
+</urlset>

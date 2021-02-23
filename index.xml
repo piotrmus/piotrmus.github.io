@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Piotr Musiał</title>
-    <link>https://piotrmus.com/</link>
+    <link>https://piotrmus.github.io/</link>
     <description>Recent content on Piotr Musiał</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl</language>
-    <lastBuildDate>Mon, 22 Feb 2021 20:09:07 +0100</lastBuildDate><atom:link href="https://piotrmus.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Feb 2021 20:09:07 +0100</lastBuildDate><atom:link href="https://piotrmus.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Testy</title>
-      <link>https://piotrmus.com/blog/tests/</link>
+      <link>https://piotrmus.github.io/blog/tests/</link>
       <pubDate>Mon, 22 Feb 2021 20:09:07 +0100</pubDate>
       
-      <guid>https://piotrmus.com/blog/tests/</guid>
+      <guid>https://piotrmus.github.io/blog/tests/</guid>
       <description>Testy to święty gral początkujących programistów. Będąc na stanowisku CTO prowadziłem sporo rekrutacji na stanowiska juniorskie. Najczęściej powtarzaną przez rekrutów pożądaną cechą zespołu było praktykowanie pisania testów.
 Przy okazji testów wszyscy wspominali o podejściu TDD (Test Driven Design), a nawet byli w stanie zdefiniować głównego założenie tego podejścia. Niestety ani jeden z nich nie pracował w takim podejściu, a zdecydowana większość z nich nigdy nawet nie pisała testów. Wszyscy narzekali, że w projektach, z którymi obecnie pracują testów nie ma i podawali to jako główną przyczynę problemów z aplikacją.</description>
     </item>
     
     <item>
       <title>Hello world!</title>
-      <link>https://piotrmus.com/hi/</link>
+      <link>https://piotrmus.github.io/hi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://piotrmus.com/hi/</guid>
+      <guid>https://piotrmus.github.io/hi/</guid>
       <description>Cześć! Jestem Piotr Musiał. Jestem programistą z 11-letnim doświadczeniem. Jestem pasjonatem programowania, architektem oprogramowania skupiającym się na fajnym projektach w nowych technologiach. Silnie uzależniony od podejścia Domain Driven Design.</description>
     </item>
     
     <item>
       <title>Piotr korzysta...</title>
-      <link>https://piotrmus.com/uses/</link>
+      <link>https://piotrmus.github.io/uses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://piotrmus.com/uses/</guid>
+      <guid>https://piotrmus.github.io/uses/</guid>
       <description>Lista rzeczy, które pomagają mi w codziennej pracy.
 Hardware  Dell XPS 15 Laptop Steelseries Apex RAW Klawiatura Mysz A4Tech Bloody V8 Mysz Bose QuietComfort 25 Słuchawki Samsung Galaxy S10e Telefon 2x Dell U2518D Monitory  PC  SilentiumPC Grandis XE1236 Chłodzenie CPU MSI Z97 GAMING 3 Płyta główna HyperX Savage, 32 GB Pamięć RAM Gigabyte GeForce GTX 970 Karta graficzna Western Digital Red 2TB Dysk HDD GoodRam CX300 240GB Dysk SSD be quiet!</description>
     </item>
     
     <item>
       <title>Szukaj</title>
-      <link>https://piotrmus.com/search/</link>
+      <link>https://piotrmus.github.io/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://piotrmus.com/search/</guid>
+      <guid>https://piotrmus.github.io/search/</guid>
       <description>search</description>
     </item>
     
